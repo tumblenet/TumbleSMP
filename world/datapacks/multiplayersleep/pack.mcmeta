@@ -1,0 +1,7 @@
+{
+	"pack":
+	{
+		"pack_format": 1,
+		"description":"Change the percentage of players in the Overworld that need to sleep"
+	}
+}
