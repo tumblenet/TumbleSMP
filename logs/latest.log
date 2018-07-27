@@ -338,3 +338,6 @@
 [22:08:46] [Server thread/INFO]: <DrBatmanWho> I'm going to leave this episode here, I hope you enjoyed.
 [22:08:49] [Server thread/INFO]: DrBatmanWho lost connection: Disconnected
 [22:08:49] [Server thread/INFO]: DrBatmanWho left the game
+[22:10:43] [Server thread/INFO]: TumbleGamer lost connection: Disconnected
+[22:10:43] [Server thread/INFO]: TumbleGamer left the game
+[22:11:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32307ms or 646 ticks behind
