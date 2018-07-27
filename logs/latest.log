@@ -39,3 +39,9 @@
 [15:12:15] [Server thread/INFO]: DrBatmanWho joined the game
 [15:14:09] [Server thread/INFO]: DrBatmanWho lost connection: Disconnected
 [15:14:09] [Server thread/INFO]: DrBatmanWho left the game
+[21:19:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@186d6a01[id=<null>,name=DrBatmanWho,properties={},legacy=false] (/82.41.40.145:50961) lost connection: Disconnected
+[21:20:25] [User Authenticator #9/INFO]: UUID of player DrBatmanWho is 019c39a2-24ce-4563-b04b-c094c9bee042
+[21:20:25] [Server thread/INFO]: DrBatmanWho[/82.41.40.145:51031] logged in with entity id 94961 at (-227.0386552902176, 63.0, 395.7662414607501)
+[21:20:25] [Server thread/INFO]: DrBatmanWho joined the game
+[21:23:28] [Server thread/INFO]: <DrBatmanWho> Hello and welcome to Episode 6.
+[21:23:39] [Server thread/INFO]: <DrBatmanWho> In today's episode we will finish my house by adding a yard.
