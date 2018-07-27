@@ -1,76 +1,41 @@
-[20:33:55] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:33:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:33:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:33:55] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:33:55] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:33:55] [main/INFO]: Loaded 0 recipes
-[20:33:55] [main/INFO]: Loaded 0 advancements
-[20:33:55] [Server thread/INFO]: Starting minecraft server version 1.13
-[20:33:55] [Server thread/INFO]: Loading properties
-[20:33:55] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[20:33:55] [Server thread/INFO]: Default game type: SURVIVAL
-[20:33:55] [Server thread/INFO]: Generating keypair
-[20:33:56] [Server thread/INFO]: Starting Minecraft server on *:25567
-[20:33:56] [Server thread/INFO]: Using default channel type
-[20:33:56] [Server thread/INFO]: Preparing level "world"
-[20:33:56] [Server thread/INFO]: Reloading ResourceManager: Default, multiplayersleep
-[20:33:57] [Server thread/INFO]: Loaded 524 recipes
-[20:33:57] [Server thread/INFO]: Loaded 8 custom command functions
-[20:33:58] [Server thread/INFO]: Loaded 573 advancements
-[20:33:58] [Server thread/INFO]: Preparing start region for level 0
-[20:33:58] [Server thread/INFO]: Preparing spawn area: 4%
-[20:33:58] [Server thread/INFO]: Preparing spawn area: 8%
-[20:33:58] [Server thread/INFO]: Preparing spawn area: 12%
-[20:33:58] [Server thread/INFO]: Preparing spawn area: 16%
-[20:33:58] [Server thread/INFO]: Preparing spawn area: 20%
-[20:33:58] [Server thread/INFO]: Preparing spawn area: 24%
-[20:33:58] [Server thread/INFO]: Preparing spawn area: 28%
-[20:33:58] [Server thread/INFO]: Preparing spawn area: 32%
-[20:33:58] [Server thread/INFO]: Preparing spawn area: 36%
-[20:33:58] [Server thread/INFO]: Preparing spawn area: 40%
-[20:33:58] [Server thread/INFO]: Preparing spawn area: 44%
-[20:33:58] [Server thread/INFO]: Preparing spawn area: 48%
-[20:33:59] [Server thread/INFO]: Preparing spawn area: 52%
-[20:33:59] [Server thread/INFO]: Preparing spawn area: 56%
-[20:33:59] [Server thread/INFO]: Preparing spawn area: 60%
-[20:33:59] [Server thread/INFO]: Preparing spawn area: 64%
-[20:33:59] [Server thread/INFO]: Preparing spawn area: 68%
-[20:33:59] [Server thread/INFO]: Preparing spawn area: 72%
-[20:33:59] [Server thread/INFO]: Preparing spawn area: 76%
-[20:33:59] [Server thread/INFO]: Preparing spawn area: 80%
-[20:33:59] [Server thread/INFO]: Preparing spawn area: 84%
-[20:33:59] [Server thread/INFO]: Preparing spawn area: 88%
-[20:33:59] [Server thread/INFO]: Preparing spawn area: 92%
-[20:33:59] [Server thread/INFO]: Preparing spawn area: 96%
-[20:33:59] [Server thread/INFO]: Preparing spawn area: 100%
-[20:33:59] [Server thread/INFO]: Time elapsed: 1093 ms
-[20:33:59] [Server thread/INFO]: Done (2.645s)! For help, type "help"
-[21:08:31] [User Authenticator #1/INFO]: UUID of player DrBatmanWho is 019c39a2-24ce-4563-b04b-c094c9bee042
-[21:08:31] [Server thread/INFO]: DrBatmanWho[/82.41.40.145:63479] logged in with entity id 105 at (-207.1938990680925, 80.0, 410.7444722220593)
-[21:08:31] [Server thread/INFO]: DrBatmanWho joined the game
-[21:19:15] [Server thread/INFO]: DrBatmanWho lost connection: Disconnected
-[21:19:15] [Server thread/INFO]: DrBatmanWho left the game
-[21:19:48] [User Authenticator #2/INFO]: UUID of player DrBatmanWho is 019c39a2-24ce-4563-b04b-c094c9bee042
-[21:19:48] [Server thread/INFO]: DrBatmanWho[/82.41.40.145:63568] logged in with entity id 6557 at (-205.5, 80.0, 410.5)
-[21:19:48] [Server thread/INFO]: DrBatmanWho joined the game
-[21:30:35] [Server thread/INFO]: DrBatmanWho fell from a high place
-[21:30:42] [Server thread/INFO]: <DrBatmanWho> oof
-[21:31:48] [Server thread/INFO]: <DrBatmanWho> hmm
-[21:33:58] [Server thread/INFO]: <DrBatmanWho> Nah
-[21:39:09] [Server thread/INFO]: <DrBatmanWho> Follow the noise.
-[21:45:09] [Server thread/INFO]: <DrBatmanWho> Too many zombies.
-[21:52:11] [Server thread/INFO]: DrBatmanWho has made the advancement [Suit Up]
-[21:55:29] [Server thread/INFO]: DrBatmanWho fell from a high place
-[22:04:11] [Server thread/INFO]: <DrBatmanWho> For more information on these stacks of dirt, be sure to watch TumbleGamer's third episode of Tumble SMP.
-[22:04:37] [Server thread/INFO]: <DrBatmanWho> I wrote that
-[22:18:04] [Server thread/INFO]: <DrBatmanWho> A few finishing touches before we go on a quest to find Tumble.
-[22:22:14] [Server thread/INFO]: DrBatmanWho lost connection: Disconnected
-[22:22:14] [Server thread/INFO]: DrBatmanWho left the game
-[22:22:33] [User Authenticator #3/INFO]: UUID of player DrBatmanWho is 019c39a2-24ce-4563-b04b-c094c9bee042
-[22:22:33] [Server thread/INFO]: DrBatmanWho[/82.41.40.145:63736] logged in with entity id 50098 at (-205.5, 87.0, 409.5)
-[22:22:33] [Server thread/INFO]: DrBatmanWho joined the game
-[22:23:02] [Server thread/INFO]: <DrBatmanWho> I've made some alterations out here
-[22:23:11] [Server thread/INFO]: <DrBatmanWho> The house is finished.
-[22:24:43] [Server thread/INFO]: <DrBatmanWho> See you next episode.
-[22:24:45] [Server thread/INFO]: DrBatmanWho lost connection: Disconnected
-[22:24:45] [Server thread/INFO]: DrBatmanWho left the game
+[11:39:05] [User Authenticator #4/INFO]: UUID of player DrBatmanWho is 019c39a2-24ce-4563-b04b-c094c9bee042
+[11:39:06] [Server thread/INFO]: DrBatmanWho[/82.41.40.145:65037] logged in with entity id 52039 at (-221.27087824397216, 77.0, 415.78216979681645)
+[11:39:06] [Server thread/INFO]: DrBatmanWho joined the game
+[11:40:14] [Server thread/INFO]: <DrBatmanWho> Welcome back to Tumble SMP.
+[11:42:36] [Server thread/INFO]: <DrBatmanWho> I'm going to find out where Tumble went.
+[11:46:06] [Server thread/INFO]: DrBatmanWho fell from a high place
+[11:46:12] [Server thread/INFO]: <DrBatmanWho> oof
+[11:49:48] [Server thread/INFO]: <DrBatmanWho> This is the direction in which Tumble went.
+[11:49:55] [Server thread/INFO]: <DrBatmanWho> Let'
+[11:50:03] [Server thread/INFO]: <DrBatmanWho> Let's mark it for later.
+[11:57:59] [Server thread/INFO]: <DrBatmanWho> Time to finish the stairs.
+[11:59:11] [Server thread/INFO]: <DrBatmanWho> The bridge down there could use some adjustment and improvement,
+[12:07:23] [Server thread/INFO]: <DrBatmanWho> Let's take a look down here.
+[12:10:49] [Server thread/INFO]: <DrBatmanWho> Where to find food...
+[12:11:33] [Server thread/INFO]: <DrBatmanWho> I have to get out of this biome.
+[12:21:35] [Server thread/INFO]: <DrBatmanWho> Just casually walk away from the baby zombie noise...
+[12:28:00] [Server thread/INFO]: <DrBatmanWho> One finished bridge.
+[12:29:12] [Server thread/INFO]: <DrBatmanWho> Time for some finishing touches.
+[12:30:28] [Server thread/INFO]: <DrBatmanWho> That'll be all for today's episode, thank you for watching.
+[12:30:31] [Server thread/INFO]: DrBatmanWho lost connection: Disconnected
+[12:30:31] [Server thread/INFO]: DrBatmanWho left the game
+[12:30:54] [User Authenticator #5/INFO]: UUID of player DrBatmanWho is 019c39a2-24ce-4563-b04b-c094c9bee042
+[12:30:54] [Server thread/INFO]: DrBatmanWho[/82.41.40.145:65099] logged in with entity id 91014 at (-210.85536698667858, 80.0, 409.823116648456)
+[12:30:54] [Server thread/INFO]: DrBatmanWho joined the game
+[12:32:18] [Server thread/INFO]: DrBatmanWho lost connection: Disconnected
+[12:32:18] [Server thread/INFO]: DrBatmanWho left the game
+[15:06:11] [User Authenticator #6/INFO]: UUID of player DrBatmanWho is 019c39a2-24ce-4563-b04b-c094c9bee042
+[15:06:11] [Server thread/INFO]: DrBatmanWho[/82.41.40.145:49524] logged in with entity id 91943 at (-206.45693677949998, 80.0, 411.5848544842971)
+[15:06:11] [Server thread/INFO]: DrBatmanWho joined the game
+[15:07:33] [Server thread/INFO]: DrBatmanWho lost connection: Disconnected
+[15:07:33] [Server thread/INFO]: DrBatmanWho left the game
+[15:10:04] [User Authenticator #7/INFO]: UUID of player DrBatmanWho is 019c39a2-24ce-4563-b04b-c094c9bee042
+[15:10:04] [Server thread/INFO]: DrBatmanWho[/82.41.40.145:49762] logged in with entity id 92581 at (-211.56452970396444, 80.0, 411.328333832297)
+[15:10:04] [Server thread/INFO]: DrBatmanWho joined the game
+[15:11:31] [Server thread/INFO]: DrBatmanWho lost connection: Disconnected
+[15:11:31] [Server thread/INFO]: DrBatmanWho left the game
+[15:12:15] [User Authenticator #8/INFO]: UUID of player DrBatmanWho is 019c39a2-24ce-4563-b04b-c094c9bee042
+[15:12:15] [Server thread/INFO]: DrBatmanWho[/82.41.40.145:49806] logged in with entity id 93560 at (-226.69999998807907, 75.0, 415.7730638744509)
+[15:12:15] [Server thread/INFO]: DrBatmanWho joined the game
+[15:14:09] [Server thread/INFO]: DrBatmanWho lost connection: Disconnected
+[15:14:09] [Server thread/INFO]: DrBatmanWho left the game

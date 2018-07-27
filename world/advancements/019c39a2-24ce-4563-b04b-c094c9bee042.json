@@ -382,7 +382,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2018-07-26 22:22:12 +0100"
+      "tick": "2018-07-27 12:29:05 +0100"
     },
     "done": false
   },
@@ -1030,7 +1030,9 @@
     "criteria": {
       "minecraft:mountains": "2018-07-21 00:44:37 +0100",
       "minecraft:birch_forest": "2018-07-21 14:37:49 +0100",
+      "minecraft:beach": "2018-07-27 11:49:33 +0100",
       "minecraft:river": "2018-07-21 00:42:33 +0100",
+      "minecraft:birch_forest_hills": "2018-07-27 12:08:24 +0100",
       "minecraft:wooded_mountains": "2018-07-21 00:51:57 +0100",
       "minecraft:stone_shore": "2018-07-21 00:44:43 +0100",
       "minecraft:swamp": "2018-07-20 11:09:32 +0100",
