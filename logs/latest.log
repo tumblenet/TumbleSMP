@@ -53,3 +53,4 @@
 [21:31:29] [Server thread/INFO]: triple_craft lost connection: Timed out
 [21:31:29] [Server thread/INFO]: triple_craft left the game
 [21:31:42] [Server thread/INFO]: <DrBatmanWho> Am I really that annoying>
+[21:32:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@406406b3[id=<null>,name=triple_craft,properties={},legacy=false] (/110.140.189.239:61433) lost connection: Disconnected
