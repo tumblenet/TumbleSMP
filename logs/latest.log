@@ -89,3 +89,8 @@
 [21:53:10] [User Authenticator #16/INFO]: UUID of player triple_craft is a00872d2-18bf-4548-a0fb-93014671db29
 [21:53:10] [Server thread/INFO]: triple_craft[/110.140.189.239:65329] logged in with entity id 115249 at (-206.5, 67.0, 287.5)
 [21:53:10] [Server thread/INFO]: triple_craft joined the game
+[21:53:19] [Server thread/INFO]: TumbleGamer lost connection: Disconnected
+[21:53:19] [Server thread/INFO]: TumbleGamer left the game
+[21:53:33] [Server thread/INFO]: triple_craft lost connection: Timed out
+[21:53:34] [Server thread/INFO]: triple_craft left the game
+[21:53:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
