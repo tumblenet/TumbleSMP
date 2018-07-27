@@ -341,3 +341,6 @@
 [22:10:43] [Server thread/INFO]: TumbleGamer lost connection: Disconnected
 [22:10:43] [Server thread/INFO]: TumbleGamer left the game
 [22:11:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32307ms or 646 ticks behind
+[22:11:49] [User Authenticator #19/INFO]: UUID of player TumbleGamer is 554a961a-0908-428d-bf07-a1568d0d8547
+[22:11:49] [Server thread/INFO]: TumbleGamer[/82.44.12.229:65321] logged in with entity id 136847 at (-261.30000001192093, 90.0, 324.848639589275)
+[22:11:49] [Server thread/INFO]: TumbleGamer joined the game
