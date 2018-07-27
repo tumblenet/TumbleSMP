@@ -54,3 +54,6 @@
 [21:31:29] [Server thread/INFO]: triple_craft left the game
 [21:31:42] [Server thread/INFO]: <DrBatmanWho> Am I really that annoying>
 [21:32:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@406406b3[id=<null>,name=triple_craft,properties={},legacy=false] (/110.140.189.239:61433) lost connection: Disconnected
+[21:32:20] [User Authenticator #11/INFO]: UUID of player triple_craft is a00872d2-18bf-4548-a0fb-93014671db29
+[21:32:20] [Server thread/INFO]: triple_craft[/110.140.189.239:61494] logged in with entity id 103316 at (-206.5, 67.0, 287.5)
+[21:32:20] [Server thread/INFO]: triple_craft joined the game
