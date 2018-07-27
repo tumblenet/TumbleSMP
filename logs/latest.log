@@ -335,3 +335,6 @@
 [22:07:23] [Server thread/WARN]: Boat (vehicle of DrBatmanWho) moved too quickly! 8.826901591858928,0.0,-4.980603362125066
 [22:08:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3602ms or 72 ticks behind
 [22:08:21] [Server thread/WARN]: DrBatmanWho moved wrongly!
+[22:08:46] [Server thread/INFO]: <DrBatmanWho> I'm going to leave this episode here, I hope you enjoyed.
+[22:08:49] [Server thread/INFO]: DrBatmanWho lost connection: Disconnected
+[22:08:49] [Server thread/INFO]: DrBatmanWho left the game
