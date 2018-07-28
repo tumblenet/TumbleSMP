@@ -382,7 +382,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "sleeping": "2018-07-28 18:13:17 +0100"
+      "tick": "2018-07-28 18:13:21 +0100"
     },
     "done": false
   },
