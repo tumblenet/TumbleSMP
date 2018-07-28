@@ -5,3 +5,6 @@
 [12:14:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
 [12:16:21] [Server thread/INFO]: DrBatmanWho lost connection: Disconnected
 [12:16:21] [Server thread/INFO]: DrBatmanWho left the game
+[17:54:10] [User Authenticator #21/INFO]: UUID of player DrBatmanWho is 019c39a2-24ce-4563-b04b-c094c9bee042
+[17:54:10] [Server thread/INFO]: DrBatmanWho[/82.41.40.145:53651] logged in with entity id 216328 at (-513.4855840258788, 64.0, 478.59531120007387)
+[17:54:10] [Server thread/INFO]: DrBatmanWho joined the game
