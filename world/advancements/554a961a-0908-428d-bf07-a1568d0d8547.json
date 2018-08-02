@@ -510,17 +510,17 @@
     },
     "done": true
   },
-  "multiplayer_sleep:sleep": {
-    "criteria": {
-      "tick": "2018-07-27 23:15:21 +0100"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-27 23:15:14 +0100"
     },
     "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2018-07-27 23:15:21 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
@@ -773,8 +773,8 @@
       "minecraft:skeleton": "2018-07-19 22:11:31 +0100",
       "minecraft:spider": "2018-07-22 22:10:02 +0100",
       "minecraft:zombie": "2018-07-19 22:12:07 +0100",
-      "minecraft:creeper": "2018-07-22 18:15:09 +0100",
       "minecraft:drowned": "2018-07-24 22:28:41 +0100",
+      "minecraft:creeper": "2018-07-22 18:15:09 +0100",
       "minecraft:zombie_villager": "2018-07-22 22:11:02 +0100",
       "minecraft:slime": "2018-07-19 22:12:56 +0100"
     },
