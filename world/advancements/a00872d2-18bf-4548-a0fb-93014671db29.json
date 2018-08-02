@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-08-02 05:20:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2018-07-28 23:54:44 +0100"
@@ -32,6 +38,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-07-22 22:04:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2018-08-02 05:32:13 +0100"
     },
     "done": true
   },
@@ -171,6 +183,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2018-07-22 21:57:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2018-08-02 05:32:13 +0100"
     },
     "done": true
   },
@@ -431,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2018-08-02 04:59:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2018-07-22 21:57:19 +0100"
@@ -482,6 +506,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2018-07-22 22:01:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2018-08-02 05:32:13 +0100"
     },
     "done": true
   },
@@ -705,6 +735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2018-08-02 05:32:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2018-07-24 08:44:21 +0100"
@@ -780,6 +816,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2018-07-28 23:54:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-08-02 05:20:26 +0100"
     },
     "done": true
   },
@@ -939,6 +981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-08-02 05:20:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2018-07-22 11:32:26 +0100"
@@ -978,6 +1026,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2018-07-22 22:01:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2018-08-02 05:19:44 +0100"
     },
     "done": true
   },
@@ -1039,12 +1093,15 @@
     "criteria": {
       "minecraft:cold_ocean": "2018-07-24 08:51:24 +0100",
       "minecraft:mountains": "2018-07-22 05:26:51 +0100",
+      "minecraft:taiga": "2018-08-02 04:37:19 +0100",
       "minecraft:deep_cold_ocean": "2018-07-24 08:51:28 +0100",
       "minecraft:deep_frozen_ocean": "2018-07-24 08:51:48 +0100",
       "minecraft:birch_forest": "2018-07-24 08:46:41 +0100",
       "minecraft:beach": "2018-07-24 08:48:53 +0100",
       "minecraft:river": "2018-07-24 08:47:12 +0100",
+      "minecraft:birch_forest_hills": "2018-08-02 04:56:31 +0100",
       "minecraft:wooded_mountains": "2018-07-24 08:39:44 +0100",
+      "minecraft:stone_shore": "2018-08-02 04:48:48 +0100",
       "minecraft:swamp": "2018-07-22 05:21:13 +0100",
       "minecraft:plains": "2018-07-22 22:25:50 +0100"
     },
@@ -1095,6 +1152,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2018-07-28 23:55:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-08-02 05:20:26 +0100"
     },
     "done": true
   },
@@ -1149,6 +1212,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2018-07-22 05:21:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2018-08-02 04:42:26 +0100"
     },
     "done": true
   },
