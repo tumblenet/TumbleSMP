@@ -48,3 +48,110 @@
 [15:51:09] [User Authenticator #1/INFO]: UUID of player TumbleGamer is 554a961a-0908-428d-bf07-a1568d0d8547
 [15:51:10] [Server thread/INFO]: TumbleGamer[/82.44.12.229:53647] logged in with entity id 100 at (-2010.300000011921, 93.5625, -232.59736652810219)
 [15:51:10] [Server thread/INFO]: TumbleGamer joined the game
+[16:18:22] [Server thread/INFO]: TumbleGamer lost connection: Disconnected
+[16:18:22] [Server thread/INFO]: TumbleGamer left the game
+[16:27:35] [User Authenticator #2/INFO]: UUID of player TumbleGamer is 554a961a-0908-428d-bf07-a1568d0d8547
+[16:27:35] [Server thread/INFO]: TumbleGamer[/82.44.12.229:59510] logged in with entity id 14139 at (-2010.8759316299738, 93.5625, -231.91979873362294)
+[16:27:35] [Server thread/INFO]: TumbleGamer joined the game
+[16:45:14] [Server thread/INFO]: TumbleGamer lost connection: Disconnected
+[16:45:14] [Server thread/INFO]: TumbleGamer left the game
+[16:45:43] [User Authenticator #3/INFO]: UUID of player TumbleGamer is 554a961a-0908-428d-bf07-a1568d0d8547
+[16:45:43] [Server thread/INFO]: TumbleGamer[/82.44.12.229:61508] logged in with entity id 25468 at (-1940.300000011921, 106.0, -251.69999998807907)
+[16:45:43] [Server thread/INFO]: TumbleGamer joined the game
+[16:45:49] [Server thread/INFO]: TumbleGamer lost connection: Disconnected
+[16:45:49] [Server thread/INFO]: TumbleGamer left the game
+[16:46:37] [User Authenticator #4/INFO]: UUID of player TumbleGamer is 554a961a-0908-428d-bf07-a1568d0d8547
+[16:46:38] [Server thread/INFO]: TumbleGamer[/82.44.12.229:61747] logged in with entity id 25590 at (-1940.300000011921, 106.0, -251.69999998807907)
+[16:46:38] [Server thread/INFO]: TumbleGamer joined the game
+[16:50:48] [Server thread/INFO]: TumbleGamer lost connection: Disconnected
+[16:50:48] [Server thread/INFO]: TumbleGamer left the game
+[16:52:00] [User Authenticator #5/INFO]: UUID of player TumbleGamer is 554a961a-0908-428d-bf07-a1568d0d8547
+[16:52:00] [Server thread/INFO]: TumbleGamer[/82.44.12.229:62444] logged in with entity id 28902 at (-1920.699999988079, 106.0, -251.3455892642972)
+[16:52:00] [Server thread/INFO]: TumbleGamer joined the game
+[17:02:15] [Server thread/INFO]: TumbleGamer fell from a high place
+[17:05:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[17:12:27] [Server thread/INFO]: TumbleGamer lost connection: Disconnected
+[17:12:27] [Server thread/INFO]: TumbleGamer left the game
+[21:49:27] [User Authenticator #6/INFO]: UUID of player TumbleGamer is 554a961a-0908-428d-bf07-a1568d0d8547
+[21:49:27] [Server thread/INFO]: TumbleGamer[/82.44.12.229:64915] logged in with entity id 48429 at (-2011.5133546939485, 93.0, -232.94341140805616)
+[21:49:27] [Server thread/INFO]: TumbleGamer joined the game
+[21:52:45] [Server thread/INFO]: TumbleGamer fell from a high place
+[21:58:15] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 1.0058427192921044,-7.105427357601002E-15,10.330936692942316
+[21:58:15] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 1.0131518592736484,-7.105427357601002E-15,10.72931033146017
+[21:58:15] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 1.0159010056354418,-7.105427357601002E-15,11.127662901669567
+[21:58:15] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 1.014221814749817,-7.105427357601002E-15,11.525963981166996
+[21:58:15] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 1.0082673520009848,-7.105427357601002E-15,11.92418740050934
+[21:58:15] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 0.9982022700328343,-7.105427357601002E-15,12.32231066518085
+[21:58:15] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 0.9842015997317048,-7.105427357601002E-15,12.720315117091587
+[21:58:15] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 0.9664496630414305,-7.105427357601002E-15,13.118186024046537
+[21:58:15] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 0.9451314958366765,-7.105427357601002E-15,13.515911591109699
+[21:58:15] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 0.9204327443990223,-7.105427357601002E-15,13.91348293882416
+[21:58:15] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 0.8925357771063318,-7.105427357601002E-15,14.31089351364102
+[21:58:15] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 0.86161999080241,-7.105427357601002E-15,14.708139037867653
+[21:58:15] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 0.8278658770134371,-7.105427357601002E-15,15.10521800851373
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 4.407776998509007,0.0,-9.419737371573376
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 4.577306844201075,0.0,-9.782034986344229
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 4.746836689042311,0.0,-10.144332601630751
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 4.916366533117753,0.0,-10.506630217381371
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 5.085896376504024,0.0,-10.868927833549677
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 5.255426219270021,0.0,-11.231225450093902
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 5.424956061477815,0.0,-11.59352306697646
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 5.59448590318334,0.0,-11.955820684163513
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 5.76401574443662,0.0,-12.318118301624608
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 5.933545585283127,0.0,-12.680415919332347
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 6.103075425763336,0.0,-13.04271353726206
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 6.272605265913853,0.0,-13.405011155391549
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 6.4421351057676475,0.0,-13.767308773700833
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 6.611664945354505,0.0,-14.129606392171937
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 6.781194784701029,0.0,-14.491904010788687
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 6.95072462383132,0.0,-14.854201629536504
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 7.1202544627669795,0.0,-15.2164992484023
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 7.289784301527561,0.0,-15.578796867374265
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 7.4593141401303455,0.0,-15.941094486441784
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 7.628843978591249,0.0,-16.303392105595293
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 7.798373816924595,0.0,-16.66568972482621
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 7.968533216164815,0.0,-17.027686027746284
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 8.14044115982324,0.0,-17.388808233836002
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 8.315570904685046,0.0,-17.748217712686284
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 8.495045655249214,0.0,-18.105185915542037
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 8.679699221314422,0.0,-18.459094300861224
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 8.87012312569641,0.0,-18.8094337010738
+[22:00:30] [Server thread/WARN]: Boat (vehicle of TumbleGamer) moved too quickly! 9.066716967706498,0.0,-19.155792947460284
+[22:00:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
+[22:08:56] [User Authenticator #7/INFO]: UUID of player DrBatmanWho is 019c39a2-24ce-4563-b04b-c094c9bee042
+[22:08:56] [Server thread/INFO]: DrBatmanWho[/82.41.40.145:52763] logged in with entity id 73687 at (-220.00558799467458, 77.0, 416.56837278943203)
+[22:08:56] [Server thread/INFO]: DrBatmanWho joined the game
+[22:09:06] [Server thread/INFO]: <TumbleGamer> hello
+[22:09:27] [Server thread/INFO]: <DrBatmanWho> Hi Tumble
+[22:09:51] [Server thread/INFO]: <DrBatmanWho> Hello and welcome to Episode 8.
+[22:10:04] [Server thread/INFO]: <DrBatmanWho> Following on from the dramatic cliffhanger of last time...!!!
+[22:10:08] [Server thread/INFO]: <DrBatmanWho> I survived.
+[22:10:13] [Server thread/INFO]: <DrBatmanWho> BUT I lost all my things.
+[22:10:38] [Server thread/INFO]: <DrBatmanWho> And I am still no closer to locating my elusive ally, TumbleGamer, who has set up base in the mesa biome far, far away.
+[22:10:59] [Server thread/INFO]: <DrBatmanWho> Today I will attempt to find him with the help of newfound knowledge.
+[22:11:02] [Server thread/INFO]: <TumbleGamer> "elusive"
+[22:11:22] [Server thread/INFO]: <DrBatmanWho> Now we see Tumble co-commentating with me
+[22:12:32] [Server thread/INFO]: <DrBatmanWho> Hmm what's this
+[22:13:03] [Server thread/INFO]: <DrBatmanWho> A large stone pillar and a box.
+[22:13:57] [Server thread/WARN]: DrBatmanWho moved wrongly!
+[22:14:12] [Server thread/INFO]: <TumbleGamer> thanks
+[22:14:19] [Server thread/INFO]: <DrBatmanWho> Thanks for what
+[22:14:32] [Server thread/INFO]: <TumbleGamer> you slept did'nt you?
+[22:14:35] [Server thread/INFO]: <DrBatmanWho> Yes
+[22:14:43] [Server thread/INFO]: <DrBatmanWho> Who went in my stone farm?!
+[22:14:52] [Server thread/INFO]: <DrBatmanWho> Hooligans are still a real menance.
+[22:15:02] [Server thread/INFO]: <TumbleGamer> stone farm?>
+[22:15:15] [Server thread/INFO]: <DrBatmanWho> Yeah
+[22:15:44] [Server thread/INFO]: <DrBatmanWho> *whistles*
+[22:17:07] [Server thread/INFO]: <DrBatmanWho> I have memorised a map which will lead me to Tumble's lair.
+[22:18:02] [Server thread/INFO]: TumbleGamer lost connection: Timed out
+[22:18:02] [Server thread/INFO]: TumbleGamer left the game
+[22:18:02] [Server thread/WARN]: handleDisconnection() called twice
+[22:18:06] [Server thread/INFO]: DrBatmanWho lost connection: Disconnected
+[22:18:06] [Server thread/INFO]: DrBatmanWho left the game
+[22:33:09] [User Authenticator #8/INFO]: UUID of player TumbleGamer is 554a961a-0908-428d-bf07-a1568d0d8547
+[22:33:09] [Server thread/INFO]: TumbleGamer[/82.44.12.229:53187] logged in with entity id 88016 at (-541.940256618627, 63.0, -213.42561232752814)
+[22:33:09] [Server thread/INFO]: TumbleGamer joined the game
+[23:18:42] [Server thread/INFO]: TumbleGamer lost connection: Disconnected
+[23:18:42] [Server thread/INFO]: TumbleGamer left the game
+[23:33:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@2ae350c9[id=<null>,name=TumbleGamer,properties={},legacy=false] (/82.44.12.229:60565) lost connection: Disconnected
