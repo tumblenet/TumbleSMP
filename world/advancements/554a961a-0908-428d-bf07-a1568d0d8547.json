@@ -518,7 +518,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2018-08-02 22:13:57 +0100"
+      "sleeping": "2018-08-03 11:50:36 +0100"
     },
     "done": false
   },
