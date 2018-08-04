@@ -4,3 +4,6 @@
 [05:52:15] [Server thread/INFO]: triple_craft lost connection: Disconnected
 [05:52:15] [Server thread/INFO]: triple_craft left the game
 [17:44:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@330a9eb1[id=<null>,name=DrBatmanWho,properties={},legacy=false] (/82.41.40.145:55755) lost connection: Disconnected
+[17:45:05] [User Authenticator #12/INFO]: UUID of player DrBatmanWho is 019c39a2-24ce-4563-b04b-c094c9bee042
+[17:45:05] [Server thread/INFO]: DrBatmanWho[/82.41.40.145:55785] logged in with entity id 375674 at (-205.99135962415943, 80.0, 413.0355260153162)
+[17:45:05] [Server thread/INFO]: DrBatmanWho joined the game
