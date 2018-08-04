@@ -1,13 +1,5 @@
-[11:34:42] [User Authenticator #9/INFO]: UUID of player TumbleGamer is 554a961a-0908-428d-bf07-a1568d0d8547
-[11:34:42] [Server thread/INFO]: TumbleGamer[/82.44.12.229:64510] logged in with entity id 123213 at (-227.33325538712512, 64.0, 365.3561165955181)
-[11:34:42] [Server thread/INFO]: TumbleGamer joined the game
-[11:52:45] [Server thread/INFO]: TumbleGamer lost connection: Disconnected
-[11:52:45] [Server thread/INFO]: TumbleGamer left the game
-[11:52:52] [User Authenticator #10/INFO]: UUID of player TumbleGamer is 554a961a-0908-428d-bf07-a1568d0d8547
-[11:52:52] [Server thread/INFO]: TumbleGamer[/82.44.12.229:51090] logged in with entity id 139932 at (-342.667061186758, 73.0, 334.04769525219683)
-[11:52:52] [Server thread/INFO]: TumbleGamer joined the game
-[12:40:45] [Server thread/INFO]: TumbleGamer was shot by Skeleton
-[13:15:33] [Server thread/INFO]: TumbleGamer was shot by Skeleton
-[13:18:22] [Server thread/INFO]: TumbleGamer was slain by Zombie
-[13:41:35] [Server thread/INFO]: TumbleGamer lost connection: Disconnected
-[13:41:35] [Server thread/INFO]: TumbleGamer left the game
+[05:45:41] [User Authenticator #11/INFO]: UUID of player triple_craft is a00872d2-18bf-4548-a0fb-93014671db29
+[05:45:41] [Server thread/INFO]: triple_craft[/101.161.225.50:58328] logged in with entity id 262020 at (-383.5906612551458, 169.0, 353.4119933755701)
+[05:45:41] [Server thread/INFO]: triple_craft joined the game
+[05:52:15] [Server thread/INFO]: triple_craft lost connection: Disconnected
+[05:52:15] [Server thread/INFO]: triple_craft left the game
