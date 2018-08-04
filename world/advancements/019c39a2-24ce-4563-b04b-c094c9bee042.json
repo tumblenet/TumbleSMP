@@ -344,6 +344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2018-08-04 18:09:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-24 15:26:50 +0100"
@@ -589,6 +595,7 @@
       "minecraft:skeleton": "2018-07-22 19:52:24 +0100",
       "minecraft:spider": "2018-07-22 23:13:11 +0100",
       "minecraft:zombie": "2018-07-20 11:13:44 +0100",
+      "minecraft:creeper": "2018-08-04 18:09:22 +0100",
       "minecraft:slime": "2018-07-24 14:24:24 +0100"
     },
     "done": false
