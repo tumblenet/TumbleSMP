@@ -727,6 +727,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2018-08-06 20:21:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2018-08-04 18:06:49 +0100"
