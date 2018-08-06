@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2018-08-06 19:54:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2018-07-24 14:12:34 +0100"
@@ -261,6 +267,7 @@
     "criteria": {
       "cooked_mutton": "2018-07-24 15:12:33 +0100",
       "mutton": "2018-07-23 21:39:23 +0100",
+      "bread": "2018-08-06 19:54:29 +0100",
       "rotten_flesh": "2018-07-20 11:13:47 +0100",
       "cooked_chicken": "2018-07-26 13:45:19 +0100"
     },
@@ -644,6 +651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2018-08-06 19:54:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-24 15:26:50 +0100"
@@ -823,6 +836,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2018-08-06 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_lapis": "2018-08-06 19:54:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2018-07-21 00:43:14 +0100"
@@ -832,6 +857,18 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2018-07-21 00:43:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_lapis": "2018-08-06 19:54:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2018-08-06 19:54:25 +0100"
     },
     "done": true
   },
@@ -1226,6 +1263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2018-08-06 19:54:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2018-07-24 12:09:49 +0100"
@@ -1253,6 +1296,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-24 15:26:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2018-08-06 19:54:25 +0100"
     },
     "done": true
   },
