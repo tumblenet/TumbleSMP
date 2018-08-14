@@ -1,10 +1,3 @@
-[02:47:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2417ms or 48 ticks behind
-[02:53:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
-[17:04:20] [Server thread/INFO]: Unknown command
-[17:04:20] [Server thread/INFO]: restart<--[HERE]
-[17:10:42] [User Authenticator #2/INFO]: UUID of player InfaReQt is 865afe23-5b59-432e-9a8e-5b05c38e9ea9
-[17:10:42] [Server thread/INFO]: InfaReQt[/82.74.190.135:44440] logged in with entity id 19490 at (-1064.5, 159.0, 451.5)
-[17:10:42] [Server thread/INFO]: InfaReQt joined the game
-[17:10:43] [Server thread/INFO]: <InfaReQt> Connected using PickaxeChat for Android
-[17:10:46] [Server thread/INFO]: InfaReQt lost connection: Disconnected
-[17:10:46] [Server thread/INFO]: InfaReQt left the game
+[14:48:49] [User Authenticator #3/INFO]: UUID of player DrBatmanWho is 019c39a2-24ce-4563-b04b-c094c9bee042
+[14:48:49] [Server thread/INFO]: DrBatmanWho[/82.41.40.145:49485] logged in with entity id 21017 at (-241.5127684575557, 63.0, 388.4696017162081)
+[14:48:49] [Server thread/INFO]: DrBatmanWho joined the game
