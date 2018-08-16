@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_at_least_9_redstone": "2018-08-16 15:39:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-22 18:52:34 +0100"
@@ -328,6 +334,7 @@
       "cooked_cod": "2018-07-22 20:36:47 +0100",
       "cookie": "2018-07-23 08:27:40 +0100",
       "melon_slice": "2018-07-22 18:34:46 +0100",
+      "cooked_chicken": "2018-08-16 14:33:29 +0100",
       "cod": "2018-07-23 08:00:00 +0100"
     },
     "done": false
@@ -401,6 +408,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2018-07-22 16:01:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2018-08-16 15:39:29 +0100"
     },
     "done": true
   },
@@ -532,7 +545,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2018-07-26 19:40:23 +0100"
+      "tick": "2018-08-16 15:59:56 +0100"
     },
     "done": false
   },
@@ -644,6 +657,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-08-16 14:33:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2018-07-22 18:32:24 +0100"
@@ -653,6 +672,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2018-07-22 15:53:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2018-08-16 15:39:29 +0100"
     },
     "done": true
   },
@@ -776,6 +801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2018-08-16 15:39:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-07-23 21:19:04 +0100"
@@ -838,6 +869,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2018-07-22 15:59:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2018-08-16 15:39:30 +0100"
     },
     "done": true
   },
@@ -1129,6 +1166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2018-08-16 14:43:51 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2018-07-22 15:56:05 +0100"
@@ -1285,6 +1328,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2018-08-16 15:39:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2018-07-22 15:56:05 +0100"
@@ -1336,6 +1385,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2018-07-22 15:54:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2018-08-16 15:39:29 +0100"
     },
     "done": true
   },
@@ -1578,6 +1633,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2018-07-22 15:59:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2018-08-16 15:39:29 +0100"
     },
     "done": true
   },

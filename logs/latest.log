@@ -1,5 +1,12 @@
-[14:48:49] [User Authenticator #3/INFO]: UUID of player DrBatmanWho is 019c39a2-24ce-4563-b04b-c094c9bee042
-[14:48:49] [Server thread/INFO]: DrBatmanWho[/82.41.40.145:49485] logged in with entity id 21017 at (-241.5127684575557, 63.0, 388.4696017162081)
-[14:48:49] [Server thread/INFO]: DrBatmanWho joined the game
-[14:50:32] [Server thread/INFO]: DrBatmanWho lost connection: Disconnected
-[14:50:32] [Server thread/INFO]: DrBatmanWho left the game
+[14:17:32] [User Authenticator #5/INFO]: UUID of player InfaReQt is 865afe23-5b59-432e-9a8e-5b05c38e9ea9
+[14:17:32] [Server thread/INFO]: InfaReQt[/145.53.185.221:49972] logged in with entity id 23676 at (-1064.5, 159.0, 451.5)
+[14:17:32] [Server thread/INFO]: InfaReQt joined the game
+[14:17:52] [Server thread/INFO]: <InfaReQt> hello
+[14:33:20] [Server thread/INFO]: InfaReQt has made the advancement [Hot Stuff]
+[14:49:32] [Server thread/INFO]: InfaReQt lost connection: Disconnected
+[14:49:32] [Server thread/INFO]: InfaReQt left the game
+[15:26:39] [User Authenticator #6/INFO]: UUID of player InfaReQt is 865afe23-5b59-432e-9a8e-5b05c38e9ea9
+[15:26:39] [Server thread/INFO]: InfaReQt[/145.53.185.221:50170] logged in with entity id 117572 at (-1060.6869425633406, 159.0, 440.44409296755947)
+[15:26:39] [Server thread/INFO]: InfaReQt joined the game
+[16:23:56] [Server thread/INFO]: InfaReQt lost connection: Disconnected
+[16:23:56] [Server thread/INFO]: InfaReQt left the game
