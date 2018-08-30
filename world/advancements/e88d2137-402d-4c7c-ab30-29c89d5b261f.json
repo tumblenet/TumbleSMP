@@ -116,6 +116,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2018-07-24 18:15:46 +0100",
+      "minecraft:wooded_mountains": "2018-08-30 19:40:10 +0100",
       "minecraft:swamp": "2018-07-24 18:12:41 +0100"
     },
     "done": false
