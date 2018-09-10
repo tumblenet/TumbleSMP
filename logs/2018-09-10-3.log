@@ -1,0 +1,47 @@
+[12:52:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:52:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:52:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:52:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:52:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:52:45] [main/INFO]: Loaded 0 recipes
+[12:52:45] [main/INFO]: Loaded 0 advancements
+[12:52:45] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[12:52:45] [Server thread/INFO]: Loading properties
+[12:52:45] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[12:52:45] [Server thread/INFO]: Default game type: SURVIVAL
+[12:52:45] [Server thread/INFO]: Generating keypair
+[12:52:45] [Server thread/INFO]: Starting Minecraft server on *:25567
+[12:52:45] [Server thread/INFO]: Using default channel type
+[12:52:46] [Server thread/INFO]: Preparing level "world"
+[12:52:47] [Server thread/INFO]: Reloading ResourceManager: Default, multiplayersleep
+[12:52:48] [Server thread/INFO]: Loaded 524 recipes
+[12:52:48] [Server thread/INFO]: Loaded 8 custom command functions
+[12:52:49] [Server thread/INFO]: Loaded 573 advancements
+[12:52:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 4%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 8%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 12%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 16%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 20%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 24%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 28%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 32%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 36%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 40%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 44%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 48%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 52%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 56%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 60%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 64%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 68%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 72%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 76%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 80%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 84%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 88%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 92%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 96%
+[12:52:50] [Server thread/INFO]: Preparing spawn area: 100%
+[12:52:50] [Server thread/INFO]: Time elapsed: 896 ms
+[12:52:50] [Server thread/INFO]: Done (4.275s)! For help, type "help"
