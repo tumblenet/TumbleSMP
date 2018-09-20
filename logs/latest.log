@@ -45,3 +45,4 @@
 [01:01:39] [Server thread/INFO]: Preparing spawn area: 100%
 [01:01:39] [Server thread/INFO]: Time elapsed: 2301 ms
 [01:01:39] [Server thread/INFO]: Done (4.779s)! For help, type "help"
+[02:22:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
