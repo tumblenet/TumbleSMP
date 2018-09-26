@@ -1,0 +1,48 @@
+[14:35:31] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:35:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:35:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:35:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:35:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:35:31] [main/INFO]: Loaded 0 recipes
+[14:35:31] [main/INFO]: Loaded 0 advancements
+[14:35:31] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[14:35:31] [Server thread/INFO]: Loading properties
+[14:35:31] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[14:35:31] [Server thread/INFO]: Default game type: SURVIVAL
+[14:35:31] [Server thread/INFO]: Generating keypair
+[14:35:32] [Server thread/INFO]: Starting Minecraft server on *:25567
+[14:35:32] [Server thread/INFO]: Using default channel type
+[14:35:32] [Server thread/INFO]: Preparing level "world"
+[14:35:32] [Server thread/INFO]: Reloading ResourceManager: Default, multiplayersleep
+[14:35:33] [Server thread/INFO]: Loaded 524 recipes
+[14:35:33] [Server thread/INFO]: Loaded 8 custom command functions
+[14:35:34] [Server thread/INFO]: Loaded 573 advancements
+[14:35:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 4%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 8%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 12%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 16%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 20%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 24%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 28%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 32%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 36%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 40%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 44%
+[14:35:34] [Server thread/WARN]: Keeping entity minecraft:spider that already exists with UUID c0e27bff-143f-4e42-96e4-3d692c889b4d
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 48%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 52%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 56%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 60%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 64%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 68%
+[14:35:34] [Server thread/INFO]: Preparing spawn area: 72%
+[14:35:35] [Server thread/INFO]: Preparing spawn area: 76%
+[14:35:35] [Server thread/INFO]: Preparing spawn area: 80%
+[14:35:35] [Server thread/INFO]: Preparing spawn area: 84%
+[14:35:35] [Server thread/INFO]: Preparing spawn area: 88%
+[14:35:35] [Server thread/INFO]: Preparing spawn area: 92%
+[14:35:35] [Server thread/INFO]: Preparing spawn area: 96%
+[14:35:35] [Server thread/INFO]: Preparing spawn area: 100%
+[14:35:35] [Server thread/INFO]: Time elapsed: 1042 ms
+[14:35:35] [Server thread/INFO]: Done (2.537s)! For help, type "help"
