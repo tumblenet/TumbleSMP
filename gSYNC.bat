@@ -1,6 +1,6 @@
 @:loop
 @echo off
-title GitHub Auto Save
+title Tumble SMP GitHub Auto Save
 if exist .git\index.lock del .git\index.lock
 set status=git status
 set fetch=git fetch
