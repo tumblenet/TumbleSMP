@@ -1,12 +1,19 @@
-[21:34:48] [Server thread/INFO]: Stopping the server
-[21:34:48] [Server thread/INFO]: Stopping server
-[21:34:48] [Server thread/INFO]: Saving players
-[21:34:48] [Server thread/INFO]: Saving worlds
-[21:34:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:34:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:34:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:34:48] [Server Shutdown Thread/INFO]: Stopping server
-[21:34:48] [Server Shutdown Thread/INFO]: Saving players
-[21:34:48] [Server Shutdown Thread/INFO]: Saving worlds
-[21:34:48] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:34:48] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:47:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:47:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:47:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:47:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:47:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:47:50] [main/INFO]: Loaded 0 recipes
+[21:47:50] [main/INFO]: Loaded 0 advancements
+[21:47:50] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[21:47:50] [Server thread/INFO]: Loading properties
+[21:47:50] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[21:47:50] [Server thread/INFO]: Default game type: SURVIVAL
+[21:47:50] [Server thread/INFO]: Generating keypair
+[21:47:50] [Server thread/INFO]: Starting Minecraft server on *:25567
+[21:47:50] [Server thread/INFO]: Using default channel type
+[21:47:51] [Server thread/INFO]: Preparing level "world"
+[21:47:51] [Server thread/INFO]: Reloading ResourceManager: Default, multiplayersleep
+[21:47:52] [Server thread/INFO]: Loaded 524 recipes
+[21:47:52] [Server thread/INFO]: Loaded 8 custom command functions
+[21:47:53] [Server thread/INFO]: Loaded 573 advancements
